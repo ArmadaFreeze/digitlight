@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+        <title>{% block title %}DigitLight - Connexion{% endblock %}</title>
+        <meta name="description" content="Le gestionnaire de stock pour le projet Icademie">
+		<meta name="author" content="DigitLight">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charSet="utf-8">
+        <link rel="icon" href="/build/images/favicon.png">
+		
+		{% block stylesheets %}
+			{{ encore_entry_link_tags('css/global') }}
+		{% endblock %}
+
+		{% block javascripts %}
+			{{ encore_entry_script_tags('js/app') }}
+		{% endblock %}
+	</head>
+	<body>
+		{% block body %}<div {{ react_component('accueil') }}></div>{% endblock %}
+	</body>
+</html>
