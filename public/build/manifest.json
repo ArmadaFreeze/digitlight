@@ -9,7 +9,7 @@
   "build/css/navbar.css": "/build/css/navbar.css",
   "build/css/itemStats.css": "/build/css/itemStats.css",
   "build/runtime.js": "/build/runtime.js",
-  "build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-0f2aa2.js": "/build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-0f2aa2.js",
+  "build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-9c1704.js": "/build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-9c1704.js",
   "build/images/item/paperboard-digital.png": "/build/images/item/paperboard-digital.png",
   "build/images/item/videoprojecteur.png": "/build/images/item/videoprojecteur.png",
   "build/images/item/clef-usb.png": "/build/images/item/clef-usb.png",
@@ -35,11 +35,5 @@
   "build/images/navbar/telephone.png": "/build/images/navbar/telephone.png",
   "build/images/navbar/material.png": "/build/images/navbar/material.png",
   "build/images/navbar/desktop.png": "/build/images/navbar/desktop.png",
-  "build/images/navbar/plus.png": "/build/images/navbar/plus.png",
-  "build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-552714.js": "/build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-552714.js",
-  "build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-65ee88.js": "/build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-65ee88.js",
-  "build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-010202.js": "/build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-010202.js",
-  "build/vendors-node_modules_mui_icons-material_Close_js-node_modules_mui_icons-material_Edit_js-node-233594.js": "/build/vendors-node_modules_mui_icons-material_Close_js-node_modules_mui_icons-material_Edit_js-node-233594.js",
-  "build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-9c1704.js": "/build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-9c1704.js",
-  "build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-0fcc7e.js": "/build/vendors-node_modules_mui_icons-material_AddBox_js-node_modules_mui_icons-material_Close_js-no-0fcc7e.js"
+  "build/images/navbar/plus.png": "/build/images/navbar/plus.png"
 }
